@@ -45,4 +45,7 @@ Most of my data cleanikng were done in POWER QUERY and some new columns were als
 
 # RECOMMENDATION
 1. The company should try incrreasing the number of their location store
-2. The company 
+2. The company
+
+# OTHER RESOURCES
+The link to the interactive The link to the report is here 
