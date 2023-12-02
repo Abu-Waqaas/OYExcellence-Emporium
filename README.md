@@ -45,7 +45,8 @@ Most of my data cleanikng were done in POWER QUERY and some new columns were als
 
 # RECOMMENDATION
 1. The company should try incrreasing the number of their location store
-2. The company
+2. The company should build new companies in the top 5 states as this will increase their orders without any  concern of transport fee
+3. The number of products should also be increase
 
 # OTHER RESOURCES
-The link to the interactive The link to the report is [here](https://app.powerbi.com/view?r=eyJrIjoiNjA3ZjBiNjktMTE1NC00MGFmLThiY2YtOWY4YzViNzBmMGY2IiwidCI6Ijg0YzMxY2EwLWFjM2ItNGVhZS1hZDExLTUxOWQ4MDIzM2U2ZiIsImMiOjZ9) 
+You can interacte  with my report [here](https://app.powerbi.com/view?r=eyJrIjoiNjA3ZjBiNjktMTE1NC00MGFmLThiY2YtOWY4YzViNzBmMGY2IiwidCI6Ijg0YzMxY2EwLWFjM2ItNGVhZS1hZDExLTUxOWQ4MDIzM2U2ZiIsImMiOjZ9) 
