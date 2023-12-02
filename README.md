@@ -32,10 +32,17 @@ Most of my data cleanikng were done in POWER QUERY and some new columns were als
 2. The total transaction which earned this amount is 7,340.
 3. While making a total profit of $ 17.66 billion.
 4. Hydromorphone has the highewst number of transaction with over 1080 transaction.
-5. We have a total number of 182 customers.
+5. The company has a total number of 182 customers.
 6. 
 
+![Power Bi Proficient Report_page-0001](https://github.com/Abu-Waqaas/OYExcellence-Emporium/assets/106377378/88cfed6f-1e71-4cdb-9f0b-407c7fa28d1b)
 
+![Power Bi Proficient Report_page-0002](https://github.com/Abu-Waqaas/OYExcellence-Emporium/assets/106377378/e58efcf9-58f3-4ab8-8233-b0aa6d36a9a7)
 
+![Power Bi Proficient Report_page-0003](https://github.com/Abu-Waqaas/OYExcellence-Emporium/assets/106377378/21b55fee-7968-420b-afd3-d0c44ad0c60b)
 
+![Power Bi Proficient Report_page-0004](https://github.com/Abu-Waqaas/OYExcellence-Emporium/assets/106377378/b9b4ed89-6974-496e-a07c-f9e838cbe69a)
 
+# RECOMMENDATION
+1. The company should try incrreasing the number of their location store
+2. The company 
