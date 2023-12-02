@@ -48,4 +48,4 @@ Most of my data cleanikng were done in POWER QUERY and some new columns were als
 2. The company
 
 # OTHER RESOURCES
-The link to the interactive The link to the report is [here](<iframe title="Power Bi Proficient Report" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNjA3ZjBiNjktMTE1NC00MGFmLThiY2YtOWY4YzViNzBmMGY2IiwidCI6Ijg0YzMxY2EwLWFjM2ItNGVhZS1hZDExLTUxOWQ4MDIzM2U2ZiIsImMiOjZ9" frameborder="0" allowFullScreen="true"></iframe>) 
+The link to the interactive The link to the report is [here](https://app.powerbi.com/view?r=eyJrIjoiNjA3ZjBiNjktMTE1NC00MGFmLThiY2YtOWY4YzViNzBmMGY2IiwidCI6Ijg0YzMxY2EwLWFjM2ItNGVhZS1hZDExLTUxOWQ4MDIzM2U2ZiIsImMiOjZ9) 
