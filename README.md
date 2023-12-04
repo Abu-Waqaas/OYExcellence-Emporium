@@ -29,7 +29,10 @@ Profit; Profit before tax - Tax
 # DATA TRANSFORMATION
 Most of my data cleaning were done in POWER QUERY and some new columns were also created on my Power BI Desktop
 # ANALYSIS and VISUALIZATION
-1. After exloring the dataset, it showed the company has made a total of $ 27 billion in the last 4 yeaars
+The visualization is 4 pages. You can as well interact with the full report [here](https://app.powerbi.com/view?r=eyJrIjoiNjA3ZjBiNjktMTE1NC00MGFmLThiY2YtOWY4YzViNzBmMGY2IiwidCI6Ijg0YzMxY2EwLWFjM2ItNGVhZS1hZDExLTUxOWQ4MDIzM2U2ZiIsImMiOjZ9) 
+Here is the sneak peak of my visualization and also my analysis
+
+1. After exploring the dataset, it showed the company has made a total of $ 27 billion in the last 4 yeaars
 2. The total transaction which earned this amount is 7,340.
 3. While making a total profit of $ 17.66 billion.
 4. Hydromorphone has the highest number of transaction with over 1080 transaction.
@@ -46,4 +49,4 @@ Most of my data cleaning were done in POWER QUERY and some new columns were also
  
 
 # OTHER RESOURCES
-You can interact  with my report [here](https://app.powerbi.com/view?r=eyJrIjoiNjA3ZjBiNjktMTE1NC00MGFmLThiY2YtOWY4YzViNzBmMGY2IiwidCI6Ijg0YzMxY2EwLWFjM2ItNGVhZS1hZDExLTUxOWQ4MDIzM2U2ZiIsImMiOjZ9) 
+You can interact  with my report 
