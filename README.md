@@ -1,5 +1,9 @@
 # OYExcellence-Emporium
 The ability of a company to make use of  its data for data driven decision is one of the greatest way to enhance business decision-decision making these days, this is why OYExcellence Emporium has asked me as a Data Analyst to help dive into its data to dsccvover the hidden truth within its business.
+![Power Bi Proficient Report_page-0001](https://github.com/Abu-Waqaas/OYExcellence-Emporium/assets/106377378/26696a3e-8a2d-4b5a-80cf-5954b7fea057)
+![Power Bi Proficient Report_page-0002](https://github.com/Abu-Waqaas/OYExcellence-Emporium/assets/106377378/66594c41-6edb-4c73-a8a5-50b5e6450513)
+![Power Bi Proficient Report_page-0003](https://github.com/Abu-Waqaas/OYExcellence-Emporium/assets/106377378/c0b77eac-ce58-453b-ac1c-be8b0e51e9e1)
+![Power Bi Proficient Report_page-0003](https://github.com/Abu-Waqaas/OYExcellence-Emporium/assets/106377378/6f0e327a-bc41-47cc-b692-042993d0c963)
 
 # AIMS/OBJECTIVES
 The main objectives of this analysis are to understand the following;
